@@ -5,11 +5,11 @@ Welcome to the Presidio Points - Backend Repository. Presidio Points is a projec
 
 ## Table of Contents
 
-* [Technologies Used] (#technologies-used)
-* [Project Local Setup] (#local-setup)
-* [Migration Commands] (#migration-commands)
-* [Deployed Environments] (#deployed-environments)
-* [Jira / Confluence Links] (#jira-confluence-links)
+* [Technologies Used](#technologies-used)
+* [Project Local Setup](#project-local-setup)
+* [Migration Commands](#migration-commands)
+* [Deployed Environments](#deployed-environments)
+* [Jira / Confluence Links](#deployed-environments)
 
 ## Technologies Used
 
@@ -42,5 +42,5 @@ npm install
 
 * Create a file .env from .env.example and update the values
 
-* Perform the sequelize migrations to update the DB Schema in your local database. [Click here for Steps] (#migration-command)
+* Perform the sequelize migrations to update the DB Schema in your local database. [_Click here for steps_](#migration-commands)
 
